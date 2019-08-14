@@ -1,4 +1,4 @@
-# NYC Permits, Demographics and the Economy: Why Building Permits Matter
+# NYC Permits and the Economy: Why Building Permits Matter
 
 **Skills used**: data cleaning and visualization, exploratory data analysis, linear regression, multiple regression
 
