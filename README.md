@@ -12,7 +12,11 @@
 * New building construction is correlated with increased permit length, while demolitions is correlated  with decreased permit length. 
 * While most other boroughs have higher volumes of permits for work on existing buildings, Staten Island had a high volume of new building permits issued during the time period selected.*
 
-**Future Exploration**: 
-
 *As noted in a 2011 report by  The Furman Center For Real Estate & Urban Policy, Staten Island is the least populated borough in the city and has a higher share of underdeveloped land, so it makes sense that new construction is the most prevalent as there aren’t as many existing structures. 
+
+**Future Work**: 
+* Using a polynomial regression to model residential permit data to eliminate the poorly fit line
+* Finding a way to incorporate demographic data into the analysis--given the limited availability of this data this was excluded from the final project.
+
+
 
